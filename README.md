@@ -2,6 +2,8 @@
 
 Um framework leve para .NET que implementa o padrão Mediator integrado a um Event Dispatcher, facilitando a separação de responsabilidades, o desacoplamento de componentes e a publicação/assinatura de eventos de forma simples e extensível.
 
+> **Nota:** Este projeto foi baseado e inspirado no pacote [NetDevPack.SimpleMediator](https://www.nuget.org/packages/NetDevPack.SimpleMediator) desenvolvido por [desenvolvedor.io](https://www.nuget.org/profiles/desenvolvedor.io).
+
 ## Recursos principais
 
 - **Mediator**: Encaminha comandos e eventos para os handlers registrados.
